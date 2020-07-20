@@ -1,0 +1,6 @@
+name: CustomRecipes
+main: nl.thedutchmc.customrecipes.CustomRecipes
+api-version: 1.8.8
+author: TheDutchMC
+version: 1.0
+description: Adds some custom recipes targeted at UHC players
